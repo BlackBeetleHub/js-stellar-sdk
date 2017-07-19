@@ -82,7 +82,7 @@
     "eventsource": "^0.2.1",
     "jsdoc": "^3.4.1",
     "lodash": "^4.0.1",
-    "stellar-base": "git+https://github.com/BlackBeetleHub/js-stellar-base.git#c0b57ba2600451d75d5c6e7e741ee64a8c481005",
+    "stellar-base": "git+https://github.com/BlackBeetleHub/js-stellar-base.git#64c6ecd4713a21714d3d523bd5d90fded27da2a6",
     "toml": "^2.3.0",
     "urijs": "1.18.4"
   }
