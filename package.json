@@ -75,7 +75,6 @@
     "webpack": "^1.13.2"
   },
   "dependencies": {
-    "urijs": "1.18.4",
     "axios": "^0.12.0",
     "bluebird": "^3.1.5",
     "es6-promise": "^3.0.2",
@@ -83,7 +82,8 @@
     "eventsource": "^0.2.1",
     "jsdoc": "^3.4.1",
     "lodash": "^4.0.1",
-    "stellar-base": "https://github.com/BlackBeetleHub/js-stellar-base#5a3cf10d680e3267969e89a7a467b9ed36185969",
-    "toml": "^2.3.0"
+    "stellar-base": "git+https://github.com/BlackBeetleHub/js-stellar-base.git#c0b57ba2600451d75d5c6e7e741ee64a8c481005",
+    "toml": "^2.3.0",
+    "urijs": "1.18.4"
   }
 }
